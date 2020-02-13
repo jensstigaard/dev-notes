@@ -1,12 +1,12 @@
-## ElectronJS project with following tech/plugins
- - Vue
- - Vuex
+## ElectronJS+VueJS project with following tech/plugins
+ - Vuex - state
  - Vue Router
- - Pug
- - SASS
- - Typescript
+ - Pug - easy templating
+ - SASS - CSS pre-processor
+ - TypeScript
  - ESLint
  - Prettier
+ - Jest
  
  How to setup project:
  ```sh
