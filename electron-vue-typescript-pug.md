@@ -21,29 +21,17 @@
  - Linter / Formatter
  - Unit Testing
  
-2) Pick a linter / formatter config:
-
-Select option "ESLint + Prettier"
+2) Pick a linter / formatter config: *Select option "ESLint + Prettier"*
 
 
-3) Pick additional lint features
-
-Select only "Lint on save"
+3) Pick additional lint features: *Select only "Lint on save"*
 
 
-4) Pick a unit testing solution
+4) Pick a unit testing solution: *Select only "Jest"*
 
-Select only "Jest"
+5) Where do you prefer placing config for Babel, ESLint, etc.? *Select "In dedicated config files"*
 
-
-5) Where do you prefer placing config for Babel, ESLint, etc.?
-
-Select "In dedicated config files"
-
-
-6) Save this as a preset for future projects?
-
-Type "N" to deny saving as preset
+6) Save this as a preset for future projects? *Type "N" to deny saving as preset*
 
 
 You are now ready to open the project in e.g. VSCode.
