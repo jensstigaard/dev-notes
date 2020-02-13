@@ -8,6 +8,8 @@
  - Prettier
  - Jest
  
+ Prerequisites: [Node](https://nodejs.org/en/) + [Yarn](https://yarnpkg.com/)
+ 
  How to setup project:
  ```sh
  vue create {projectname}
@@ -56,3 +58,7 @@ Open `package.json`, and move the electron-dependency line to the "dependency" s
 
 ### Ready to launch
 You are now ready to launch
+
+```sh
+yarn electron:serve
+```
