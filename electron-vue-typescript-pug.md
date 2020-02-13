@@ -37,7 +37,7 @@ by default): **Sass/SCSS (with dart-sass)**
 
 7) Pick a linter / formatter config: **Prettier**
 
-8) Pick additional lint features: (Press <space> to select, <a> to toggle all, <i> to invert selection) **Lint on save**
+8) Pick additional lint features: (Press <space> to select, <a> to toggle all, <i> to invert selection</i>) **Lint on save**
 
 9) Pick a unit testing solution: **Jest**
 
