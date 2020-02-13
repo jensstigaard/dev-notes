@@ -26,8 +26,7 @@
 
 3) Use class-style component syntax? **Yes** (not mandatory)
 
-4) Use Babel alongside TypeScript (required for modern mode, auto-detected polyfi
-lls, transpiling JSX)? **No**
+4) Use Babel alongside TypeScript (required for modern mode, auto-detected polyfills, transpiling JSX)? **No**
 
 5) Use history mode for router? (Requires proper server setup for index fallback
 in production) **No** (does not make sense in ElectronJS app)
@@ -37,7 +36,7 @@ by default): **Sass/SCSS (with dart-sass)**
 
 7) Pick a linter / formatter config: **Prettier**
 
-8) Pick additional lint features: (Press <space> to select, <a> to toggle all, <i> to invert selection</i>) **Lint on save**
+8) Pick additional lint features: (Press `<space>` to select, `<a>` to toggle all, `<i>` to invert selection) **Lint on save**
 
 9) Pick a unit testing solution: **Jest**
 
